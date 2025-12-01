@@ -6,7 +6,7 @@ Cod_Veiculo INT PRIMARY KEY,
 Ano INT(4),
 Placa VARCHAR(10),
 Modelo VARCHAR(50),
-Marca VARCHAR(50)
+Marca VARCHAR(50)00
 );
 
 CREATE TABLE CLIENTE (
